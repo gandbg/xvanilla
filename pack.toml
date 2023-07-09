@@ -1,0 +1,13 @@
+name = "GABG's XVanilla"
+author = "GABG"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "47afcb93095d4353d168138c9bd61e2843bfed7316afe44d994343fd1e68ec16"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.4"

@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".vscode/extensions.json"
+hash = "1e6b15e965e442c5084e0f19fb376fa73d52557a990c010ce6e9ce4720019c76"
