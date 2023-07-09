@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "bungcip.better-toml"
+        "bungcip.better-toml",
+        "ms-vscode.powershell",
+        "coenraads.bracket-pair-colorizer-2"
     ]
 }
