@@ -234,3 +234,8 @@ metafile = true
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "62af13d9f72ce550635e6a288cb94c82b9d5107eefea577d7135508bc593cadf"
 metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "187b4b7fbf0edfffc6471b5fb927db6a3555c2e8fd6cd03e2bd6be665848a202"
+metafile = true
