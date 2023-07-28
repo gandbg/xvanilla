@@ -1,4 +1,5 @@
 Import-Module "$PSScriptRoot/Write-Success.psm1"
+Set-Location "$PSScriptRoot/.."
 
 Write-Success -Message "Locating Modrinth (.mrpack) package"
 $ModrinthPackage = (Get-ChildItem -Path "./*" -Include "*.mrpack")[0] #Get the full path of the .mrpack file
@@ -23,6 +24,16 @@ $ModrinthIndex.files | ForEach-Object { #Build dependency tree
 		dependency_type = "embedded"
 	}
 }
+#* This is a Modrinth download url for reference: https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar
+
+# if($env:GITHUB_ACTIONS -eq 'true'){
+# 	Write-Success "Uploading package to Modrinth"
+
+# 	Invoke-RestMethod -Uri "https://api.modrinth.com/v2/version" `
+# 		-Method Post `
+
+# }
+
+Remove-Item -Path "./modrinth-package" -Force -Recurse
 
 #TODO upload stack
-#TODO delete temporary package extraction
