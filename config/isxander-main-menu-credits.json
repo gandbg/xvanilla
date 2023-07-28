@@ -1,0 +1,21 @@
+{
+	"main_menu": {
+		"bottom_right": [
+			{
+				"text": "GABG's XVanilla",
+				"clickEvent": {
+					"action": "open_url",
+					"value": "https://fabulously-optimized.github.io/"
+				}
+			}
+		]
+	},
+	"pause_menu": {
+		"bottom_right": [
+			{
+				"translate": "isxander-main-menu-credits.antighost",
+				"color": "dark_gray"
+			}
+	  ]
+	}
+}
