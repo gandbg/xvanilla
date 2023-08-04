@@ -1,3 +1,5 @@
 .vscode
 .editorconfig
+.github
 scripts
+*.md

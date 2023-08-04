@@ -1,0 +1,13 @@
+name = "Fluid Void Fading"
+filename = "fluidvoidfading-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HO64QSJp/versions/IbTZ0SMA/fluidvoidfading-1.1.0.jar"
+hash-format = "sha1"
+hash = "b3bf636009eea9b0e9de6f34f957ea9318987d1c"
+
+[update]
+[update.modrinth]
+mod-id = "HO64QSJp"
+version = "IbTZ0SMA"

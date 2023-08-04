@@ -1,11 +1,11 @@
 {
 	"main_menu": {
-		"bottom_right": [
+		"bottom_left": [
 			{
 				"text": "GABG's XVanilla",
 				"clickEvent": {
 					"action": "open_url",
-					"value": "https://fabulously-optimized.github.io/"
+					"value": "https://github.com/gandbg/xvanilla"
 				}
 			}
 		]
@@ -15,7 +15,7 @@
 			{
 				"translate":"isxander-main-menu-credits.antighost",
 				"fallback":"Fix ghost blocks with /ghost",
-				"color":"dark_gray"
+				"color":"white"
 			}
 		]
 	}

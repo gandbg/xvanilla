@@ -1,0 +1,13 @@
+darkMode = true
+keepCentered = true
+settingsButton = false
+
+[newRecipes]
+unlockAll = false
+enableBounce = true
+
+[instantCraft]
+showButton = false
+
+[scrolling]
+scrollAround = true

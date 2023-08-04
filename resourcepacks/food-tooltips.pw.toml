@@ -1,0 +1,13 @@
+name = "Food Tooltips"
+filename = "Food Tooltips-1.0.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pedwdTC8/versions/UwBNSuAu/Food%20Tooltips-1.0.4.zip"
+hash-format = "sha1"
+hash = "1d0e040b471a177d38bbad5c5eaaac0746c49703"
+
+[update]
+[update.modrinth]
+mod-id = "pedwdTC8"
+version = "UwBNSuAu"
