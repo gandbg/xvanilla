@@ -30,8 +30,9 @@ Items with their names formatted with ~~strikethough~~ are present in FO, but ar
 + [Timeless](https://modrinth.com/mod/timeless) - Brings back old features
 + [Visuality](https://modrinth.com/mod/visuality) - Little visual improvements
 
+Some mods were omited from this list since they have very little or no user-facing functions.
+
 ### Resource Packs
-+ [Icons](https://modrinth.com/resourcepack/icons) - Introduces icons throughout different aspects of the game
 + [Chat +](https://modrinth.com/resourcepack/chat+) - Adding tiny icons to vanilla chat messages
 + [Food Tooltips](https://modrinth.com/resourcepack/food-tooltips) - Display food value on tooltips
 
@@ -40,7 +41,6 @@ Items with their names formatted with ~~strikethough~~ are present in FO, but ar
 + Max FPS: 70
 
 ## Work in Progress
-+ [ ] Add Faithful with some addons/tweaks
-+ [ ] Enable the included Resource Packs by default
-+ [ ] Publish on Modrinth
++ Add Faithful with some addons/tweaks
++ Publish on Modrinth
 

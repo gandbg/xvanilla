@@ -134,7 +134,7 @@ hash = "c47ea3554cf51890f76152c3cc5ab2ae86a4c81831456cf1e451ee4c581331df"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c48283335f230679a72ef44b457255aa58b5817ef566ba739043772ce17cd037"
+hash = "c9e93b059592304a554efec97b22b024b99f8ced0061a8c67905d3cce60b3e0e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -417,6 +417,11 @@ hash = "bb3f98696004987f53dd9d45af1ac3ab9c902362205bdac9c10f05a789cb87b6"
 metafile = true
 
 [[files]]
+file = "mods/no-resource-pack-warnings.pw.toml"
+hash = "851cfa19b064421599d898cfd62b67455ac8a9022eee8186f9c6945fdf932d0f"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "68e797f5a5f2d3cc33802148bd4199bc846e6afa9bff3217b19d220ad7518499"
 metafile = true
@@ -454,6 +459,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "e772e044be0402e26a467d7cf70a91104f849d8b4869bd42d87be15684fcd6fa"
+metafile = true
+
+[[files]]
+file = "mods/server-pack-unlocker.pw.toml"
+hash = "e053efc45b146cc3d66ec1a723cd1ab03a1de3d1029d550e750f84329e6899c9"
 metafile = true
 
 [[files]]
@@ -524,9 +534,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/food-tooltips.pw.toml"
 hash = "3b95a47a4d5dfe9aedd1d6608d42e43b527a37dac8a762cdf5e611ae57179e0c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/icons.pw.toml"
-hash = "a9911a65880b659b88bce0ab640cd7b6fd49b88bd4d94a5d7aa86128160830de"
 metafile = true
