@@ -33,6 +33,8 @@ Items with their names formatted with ~~strikethough~~ are present in FO, but ar
 Some mods were omited from this list since they have very little or no user-facing functions.
 
 ### Resource Packs
++ [Faithful 32x](https://modrinth.com/resourcepack/faithful-32x) - The iconic Faithful 32x resource pack
+  + [Enhanced Faithcraft](https://modrinth.com/resourcepack/enhanced-faithcraft) - Faithful 32x addon that adds a few improvements
 + [Chat +](https://modrinth.com/resourcepack/chat+) - Adding tiny icons to vanilla chat messages
 + [Food Tooltips](https://modrinth.com/resourcepack/food-tooltips) - Display food value on tooltips
 
