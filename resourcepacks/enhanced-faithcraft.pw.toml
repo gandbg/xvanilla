@@ -1,0 +1,13 @@
+name = "Enhanced Faithcraft"
+filename = "EF-Heavy.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6w0Ygc8D/versions/XylYggEX/EF-Heavy.zip"
+hash-format = "sha1"
+hash = "40f46e86a0bfabaae0581548e86de799f79ce4af"
+
+[update]
+[update.modrinth]
+mod-id = "6w0Ygc8D"
+version = "XylYggEX"

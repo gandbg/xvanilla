@@ -1,0 +1,13 @@
+name = "Mindful Darkness"
+filename = "MindfulDarkness-v6.0.2-1.19.4-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pzCY6C3e/versions/VveCEcsb/MindfulDarkness-v6.0.2-1.19.4-Fabric.jar"
+hash-format = "sha1"
+hash = "bf123be680b67ff7d570c8c6d353cce469890613"
+
+[update]
+[update.modrinth]
+mod-id = "pzCY6C3e"
+version = "VveCEcsb"

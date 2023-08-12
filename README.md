@@ -41,6 +41,6 @@ Some mods were omited from this list since they have very little or no user-faci
 + Max FPS: 70
 
 ## Work in Progress
-+ Add Faithful with some addons/tweaks
++ Get an icon/logo
 + Publish on Modrinth
 
