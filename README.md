@@ -38,7 +38,7 @@ Some mods were omited from this list since they have very little or no user-faci
 + [Chat +](https://modrinth.com/resourcepack/chat+) - Adding tiny icons to vanilla chat messages
 + [Food Tooltips](https://modrinth.com/resourcepack/food-tooltips) - Display food value on tooltips
 
-### Vanilla settigs
+### Vanilla settings
 + Render distance: 20
 + Max FPS: 70
 
