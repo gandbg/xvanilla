@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 33.866667 33.866667"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#6ac44b;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#90bd5b;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="16.933332"
+       y1="-4.9960036e-16"
+       x2="16.933332"
+       y2="33.866665"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0)" />
+  </defs>
+  <rect
+     style="fill:url(#linearGradient3);stroke-width:0.264411"
+     id="rect2"
+     width="33.866665"
+     height="33.866665"
+     x="0"
+     y="1.7801921e-06" />
+  <path
+     style="font-size:11.8905px;font-family:Minecraftia;-inkscape-font-specification:Minecraftia;fill:#496428;stroke:#1c260f;stroke-width:0.47625;paint-order:stroke fill markers"
+     d="m 5.7859894,22.135427 v -1.486312 h 4.4589376 v 1.486312 z M 10.244927,20.649115 V 16.190177 H 7.2723019 v -1.486312 h 4.4589371 v 5.94525 z m -5.9452501,0 v -7.431563 h 1.4863125 v 7.431563 z M 5.7859894,13.217552 V 11.73124 h 5.9452496 v 1.486312 z m 7.4315626,8.917875 V 17.67649 h 1.486313 v 4.458937 z m 5.94525,0 V 17.67649 h 1.486313 v 4.458937 z M 14.703865,17.67649 v -1.486313 h 1.486312 v 1.486313 z m 2.972625,0 v -1.486313 h 1.486312 v 1.486313 z m -1.486313,-1.486313 v -1.486312 h 1.486313 v 1.486312 z m -1.486312,-1.486312 v -1.486313 h 1.486312 v 1.486313 z m 2.972625,0 v -1.486313 h 1.486312 v 1.486313 z M 13.217552,13.217552 V 11.73124 h 1.486313 v 1.486312 z m 5.94525,0 V 11.73124 h 1.486313 v 1.486312 z m 5.94525,8.917875 v -1.486312 h 1.486313 v 1.486312 z M 23.62174,20.649115 V 17.67649 h 1.486312 v 2.972625 z m 2.972625,0 V 17.67649 h 1.486313 v 2.972625 z M 22.135427,17.67649 v -5.94525 h 1.486313 v 5.94525 z m 5.945251,0 v -5.94525 h 1.486312 v 5.94525 z"
+     id="text3"
+     aria-label="GXV" />
+</svg>
