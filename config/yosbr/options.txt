@@ -24,3 +24,4 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.togglePerspective:key.keyboard.r
 mouseSensitivity:0.575
+soundCategory_music:0.3
