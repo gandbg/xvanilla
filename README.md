@@ -41,8 +41,3 @@ Some mods were omited from this list since they have very little or no user-faci
 ### Vanilla settings
 + Render distance: 20
 + Max FPS: 70
-
-## Work in Progress
-+ Get an icon/logo
-+ Publish on Modrinth
-
