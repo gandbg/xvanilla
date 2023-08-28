@@ -1,13 +1,15 @@
 # <div align=center>GABG's XVanilla</div>
-<a href="https://modrinth.com/modpack/fabulously-optimized">
-<img alt="Build on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg">
-</a>
-<a href="https://modrinth.com/modpack/gabgs-xvanilla">
-<img alt="Available on Modrinth" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg">
-</a>
-<a href="https://modrinth.com/modpack/gabgs-xvanilla/gallery">
-<img alt="Checkout the Gallery" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/modrinth-gallery_vector.svg">
-</a>
+<div align=center>
+	<a href="https://modrinth.com/modpack/fabulously-optimized">
+	<img alt="Build on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg">
+	</a>
+	<a href="https://modrinth.com/modpack/gabgs-xvanilla">
+	<img alt="Available on Modrinth" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg">
+	</a>
+	<a href="https://modrinth.com/modpack/gabgs-xvanilla/gallery">
+	<img alt="Checkout the Gallery" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/modrinth-gallery_vector.svg">
+	</a>
+</div>
 
 **GABG's XVanilla** (*GABG's XV* or *GXV* if it's too long for you) is an opinionated Minecraft modpack derived from [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized) (*FO* for short) with the goal of adding even more QoL (**Q**uality **o**f **L**ive) improvements
 
