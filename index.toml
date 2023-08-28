@@ -165,10 +165,6 @@ file = "config/yosbr/options.txt.bak"
 hash = "9e5cb7fba21bab16a90e9956b37b1572fb2378359c9db2f33cbe91b7b5c5d8b6"
 
 [[files]]
-file = "modlist.txt"
-hash = "da73853695b8b75959a17afa514f0a3ac6edb47d4f18e78a17ad8a5cf123f5f3"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "a7c95abc830068cdbd3adf8ec2ee8135b2eb2685f88fa90adda305f2d01205bc"
 metafile = true
@@ -206,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "87388bfb6188340b29d7d941dae6d0ced7bc4e9b9a8c87ac3f574aee417a3e85"
-metafile = true
-
-[[files]]
-file = "mods/better-beds.pw.toml"
-hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
 metafile = true
 
 [[files]]
