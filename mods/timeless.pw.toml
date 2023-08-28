@@ -1,13 +1,13 @@
 name = "Timeless"
-filename = "timeless-1.19.4-1.1.1.jar"
+filename = "timeless-1.20.1-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nJxEs2tZ/versions/T6tN7nIn/timeless-1.19.4-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/nJxEs2tZ/versions/2kVFS2z1/timeless-1.20.1-1.1.1.jar"
 hash-format = "sha1"
-hash = "0e2759d348bb218dd84b8d7e529286a12c4c02dd"
+hash = "034f0fc53f09425fe4ac69a77f0f45eac01484a5"
 
 [update]
 [update.modrinth]
 mod-id = "nJxEs2tZ"
-version = "T6tN7nIn"
+version = "2kVFS2z1"

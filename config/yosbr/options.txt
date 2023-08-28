@@ -7,7 +7,7 @@ renderDistance:20
 simulationDistance:6
 guiScale:3
 maxFps:70
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Food Tooltips-1.0.4.zip","file/Chat+V.1.1.zip","Faithful 32x - 1.19.4.zip","EF-Heavy.zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Food Tooltips-1.0.4.zip","file/Chat+V.1.1.zip","Faithful 32x - 1.20.1.zip","EF-Heavy.zip","file/Fast Better Grass.zip"]
 incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none
