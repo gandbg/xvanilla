@@ -1,4 +1,5 @@
-#Fabrishot screenshot config
+c#Fabrishot screenshot config
+#Sat Jul 29 17:21:13 CEST 2023
 custom_file_name=%time%
 hide_hud=false
 delay=120
