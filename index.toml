@@ -90,7 +90,7 @@ hash = "acc20d0a92edcf0497ebb62c7c673a8d9c99d872890bb53027722390f453e9dc"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "d9d6ec772818c7538f8e0baf47c1d55aa0a7ca2016bc0b7632ed1a6dcb276cb2"
+hash = "fe12e2ac2731cf0aae1437d071eea28b3f1cd00023b1312daea837ec7d1adae6"
 
 [[files]]
 file = "config/yosbr/config/iris.properties.bak"
@@ -611,7 +611,7 @@ hash = "312dfbf1be1f1f2a93f9cab87aa4326da2ce2827e11545030060bb7d85c07edc"
 metafile = true
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-8.8e.zip.txt"
+file = "shaderpacks/MakeUp-UltraFast-8.8f.zip.txt"
 hash = "693ad3426a9baac855c1e1bbc514eccec70cb8f197dac0132b109df85ef537b4"
 
 [[files]]
