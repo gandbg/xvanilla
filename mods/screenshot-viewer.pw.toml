@@ -1,13 +1,13 @@
 name = "Screenshot Viewer"
-filename = "screenshot_viewer-1.2.1-fabric-mc1.20.jar"
+filename = "screenshot_viewer-1.2.1-fabric-mc1.20.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/laNoi025/versions/d859NHWh/screenshot_viewer-1.2.1-fabric-mc1.20.jar"
+url = "https://cdn.modrinth.com/data/laNoi025/versions/jYEgmG9X/screenshot_viewer-1.2.1-fabric-mc1.20.2.jar"
 hash-format = "sha1"
-hash = "97ebdf824952f5706cfa8d7b79e38e849bc61a96"
+hash = "fe1736e64e317bf2efe48ca692d9a364e917825a"
 
 [update]
 [update.modrinth]
 mod-id = "laNoi025"
-version = "d859NHWh"
+version = "jYEgmG9X"

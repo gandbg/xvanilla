@@ -1,13 +1,13 @@
 name = "Better Recipe Book"
-filename = "brb-1.8.2-fabric.jar"
+filename = "brb-1.10.0+1.20.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vWIaVOTE/versions/rgrA2VTs/brb-1.8.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/vWIaVOTE/versions/jv5aSvAF/brb-1.10.0%2B1.20.2.jar"
 hash-format = "sha1"
-hash = "9aa66c4463abdaf56d1df06ccbcf0e9cbc2c0f85"
+hash = "9f6f88672a67000fad9f4a01ff70eb08b78f78b7"
 
 [update]
 [update.modrinth]
 mod-id = "vWIaVOTE"
-version = "rgrA2VTs"
+version = "jv5aSvAF"
