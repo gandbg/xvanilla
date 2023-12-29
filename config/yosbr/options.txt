@@ -1,4 +1,4 @@
-version:3465
+version:3578
 autoJump:false
 operatorItemsTab:true
 snooperEnabled:false
@@ -18,7 +18,6 @@ onboardAccessibility:false
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.v
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
-key_key.antighost.reveal:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
