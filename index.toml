@@ -146,15 +146,7 @@ hash = "c47ea3554cf51890f76152c3cc5ab2ae86a4c81831456cf1e451ee4c581331df"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "bc17b9f61b076c1d94e778d097ffc5d528dd88b743a541b330cd18b8a8c1d123"
-
-[[files]]
-file = "fo-mods.txt"
-hash = "e5c876cfdbc83b2119a5c917f0d883d2bb4f8514264e002de446a4f0ef23503a"
-
-[[files]]
-file = "gxv-mods.txt"
-hash = "681ce7edefe8ad3318ef1eec19eec10f4720f18fa8745b5167659648ebd56d9b"
+hash = "31aaac27ebe0836daefc2b4f05e6a5fa30b97f33b01e8facdf1988d88f50c525"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -523,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "bfe7f523e2b82b3a097e6ce8f2efd19e0e838ac0992fe846b05428ce7e4a1391"
+hash = "f6fe8a4f133e177cf0c944e624bfe5e5d6dc553c1a9fff81e8f2b900f7aa62f9"
 metafile = true
 
 [[files]]
@@ -533,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "b4018788362b48e316412a3a84a0f73f0b898acad1ef70ad8af10f5d5137bf39"
+hash = "4b2c0cb8fd170ebff7ee62116c1889b136fb0084fcde6180c143f33d312efd0c"
 metafile = true
 
 [[files]]
