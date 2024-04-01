@@ -150,7 +150,7 @@ hash = "c47ea3554cf51890f76152c3cc5ab2ae86a4c81831456cf1e451ee4c581331df"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "31aaac27ebe0836daefc2b4f05e6a5fa30b97f33b01e8facdf1988d88f50c525"
+hash = "4e18de3a6418c1e78188a22e298fa176c47ccdf5df934aae2b17c04a0640e2de"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -310,11 +310,6 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "48958a4edb5f04c8962be5886e531cff28450b1248eb068d91ea4b8d63df6eee"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
 
 [[files]]
