@@ -3,11 +3,11 @@ filename = "EF-Heavy.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6w0Ygc8D/versions/45tJTV36/EF-Heavy.zip"
+url = "https://cdn.modrinth.com/data/6w0Ygc8D/versions/QEBMwBg4/EF-Heavy.zip"
 hash-format = "sha1"
-hash = "8a6f43699826446c5e51d717706954beb0b52e32"
+hash = "ec99412a4f367cf027ad75bc3fde3f7a5605aa14"
 
 [update]
 [update.modrinth]
 mod-id = "6w0Ygc8D"
-version = "45tJTV36"
+version = "QEBMwBg4"

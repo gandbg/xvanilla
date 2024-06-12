@@ -1,13 +1,13 @@
 name = "Faithful 32x"
-filename = "Faithful 32x - 1.20.2.zip"
+filename = "Faithful 32x - 1.20.4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/w0TnApzs/versions/B3jsk0Ot/Faithful%2032x%20-%201.20.2.zip"
+url = "https://cdn.modrinth.com/data/w0TnApzs/versions/xMbmcrmF/Faithful%2032x%20-%201.20.4.zip"
 hash-format = "sha1"
-hash = "402690fe40eefc60c2b8e7dfd5b80f794d056ded"
+hash = "7e0d5e300396a306e0169616f0e8f1143952d726"
 
 [update]
 [update.modrinth]
 mod-id = "w0TnApzs"
-version = "B3jsk0Ot"
+version = "xMbmcrmF"

@@ -1,13 +1,13 @@
 name = "Better Enchanted Books"
-filename = "better-enchanted-books-1.20.4-1.4.5.jar"
+filename = "better-enchanted-books-1.20.4-2.0.3-beta.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjpXhps7/versions/ztuKmPWj/better-enchanted-books-1.20.4-1.4.5.jar"
+url = "https://cdn.modrinth.com/data/yjpXhps7/versions/ufIsis9Q/better-enchanted-books-1.20.4-2.0.3-beta.jar"
 hash-format = "sha1"
-hash = "5018b4d7e09b1bdeed1536c6389098ba568ac0dc"
+hash = "2688d9cf52a0ded6beb18498e1592c98ade25e8e"
 
 [update]
 [update.modrinth]
 mod-id = "yjpXhps7"
-version = "ztuKmPWj"
+version = "ufIsis9Q"
