@@ -9,18 +9,5 @@
 				}
 			}
 		]
-	},
-	"pause_menu":{
-		"bottom_right":[
-			{
-				"translate":"isxander-main-menu-credits.antighost",
-				"fallback":"Fix ghost blocks with /ghost",
-				"color":"white",
-				"clickEvent": {
-					"action": "run_command",
-					"value": "/ghost"
-				}
-			}
-		]
 	}
 }
