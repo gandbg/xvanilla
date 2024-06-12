@@ -86,7 +86,7 @@ hash = "f0fa91c42d9a753f8f2773f193864fe248fe1a3527189d1490a0e0094bcd7049"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "20d033750fd8a7222fc29ddf8e4ce5af1796d41c950bbee24045259ff3255de3"
+hash = "fa99cbe60c8d7057f7cbc85255567a261fa239c4b90ecd8f6f9207b14f43a778"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
@@ -146,7 +146,7 @@ hash = "c47ea3554cf51890f76152c3cc5ab2ae86a4c81831456cf1e451ee4c581331df"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "477d9fa755731305e8d079bb6ab5e685bf4d6608441c760a3ef8c1da294f9d33"
+hash = "c6652473b88479be41b845bd638ef1eacd17d464af52d643ae2c894efdd3e885"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7275eef48f9f640dd888913ad8d44bf0ed1752ea6e71c8b6eaf73d3af58bfc34"
+hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
 metafile = true
 
 [[files]]
@@ -351,11 +351,6 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "b9749a14f4cc5697124cdbd46c313384713a9c28f4b30a5baae6d43e8561e83c"
-metafile = true
-
-[[files]]
-file = "mods/lilac.pw.toml"
-hash = "baca3b76ab9bf92fe2335a39285822ba68e47650eeb3ae145a6fea0061c6c9e9"
 metafile = true
 
 [[files]]
@@ -554,7 +549,7 @@ hash = "4c331cf4309108852027aaaeb3cc3546f884451a34b88569a6cd03111834f26d"
 metafile = true
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-8.9b.txt"
+file = "shaderpacks/MakeUp-UltraFast-8.9f.txt"
 hash = "693ad3426a9baac855c1e1bbc514eccec70cb8f197dac0132b109df85ef537b4"
 
 [[files]]
