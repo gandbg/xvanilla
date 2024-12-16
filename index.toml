@@ -150,7 +150,7 @@ hash = "c6652473b88479be41b845bd638ef1eacd17d464af52d643ae2c894efdd3e885"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "eee95e3fdd26db4fec4eac0c81bac2c303e51688fc0574dd6f1dcf349402663b"
+hash = "6437ec723e014f74d1165e03b4d9e846ef9b3f290fa3bd28bcb4f260fba6519b"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
 metafile = true
 
 [[files]]
@@ -194,8 +194,13 @@ hash = "1de0c1c60ce9fbc03b06457b12c490406fc48d2b79dda58528dbad081ae9a466"
 metafile = true
 
 [[files]]
+file = "mods/blur-plus.pw.toml"
+hash = "b081d42c64302b49f57aaf360fa16a75672d8460bb24743e26b11889645f0e8c"
+metafile = true
+
+[[files]]
 file = "mods/brb.pw.toml"
-hash = "c389c522370e0b46b10d9a2b6007573b46a670e53313725525bcd5ac381c6049"
+hash = "81ab0ce3f6b90a3c79797d2aad396d8fe8cfda0f6b91a46e60d3d49cb506af01"
 metafile = true
 
 [[files]]
@@ -210,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "f4d50e2e0fae0612e93aa9128bb49258ba4b7a6c6a32ff39a0bc0cb04f2d7cbc"
+hash = "1a7b8e8b5b90470c1ca8b5dd2eaf71080651f78996cc7c1c66abc1dc02420e43"
 metafile = true
 
 [[files]]
@@ -235,12 +240,12 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "fa94c3f9d622bae53dd95109da4cd938aac4991feecf5b1a8e7be43ac4200401"
+hash = "b39cd19687d468d8389881a144f40b676bd1af134aaa05bcf6e784e6736b14fa"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
+hash = "35987c496bb9606cbe066b5bf8d3b3823504cc6a3d04d858b8d6ae33fc8a50b8"
 metafile = true
 
 [[files]]
@@ -255,17 +260,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ee965d6f2e0a9cdc31139b0d8a3367eb8db031065a03142534652573626e9787"
+hash = "6c22eb7238d0620f15f9e2a28d6f4092e07b6b31546b39293f463e13128f4b29"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "991b8a836f82033fc5177a2c9e7f91e30d91694dfbc217db7e17c0075a9e5383"
+hash = "c007634670fe1a0c76e6e680c410c9195776b30fec69bc21cbbfb19f02a8e2d8"
 metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "df487485f2e57e77657f65da68500e5b688812d7555f75e7db910d39827386c4"
+hash = "bf3f7277039b19252017cb7b5175ce20c10434d195c8d58142f465fb516c1793"
 metafile = true
 
 [[files]]
@@ -275,12 +280,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e4b5b954332718c875877bba25a1aced57deccab885f348d53649c25bf13615f"
+hash = "94ff749ff050e6cc3a4a3e2ddf539f3165335a34ba911f5ccfcbc6e23c3ace72"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "11f295a85096525b9d86fb11ac16fb2b3c97e87d8b8e3cb874d44f3bff822ed5"
+hash = "6db2e1a4eb2d40dc572681759abc729f291745a4fda45a97291fc53cbde86425"
 metafile = true
 
 [[files]]
@@ -330,12 +335,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "547b1ccde38256b8090e6900147f2737513e423e1fc0bbfb412f8a1a8209b52c"
+hash = "1aadf91846b80dcbedfae8433ff58b5614b3470062887fe9b3d1e22d05ed0e86"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
@@ -380,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
 metafile = true
 
 [[files]]
@@ -410,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "849d75109c9945c9900c2ca6e0c3ff7f3036b7f72a10722241962fe79e8a9516"
+hash = "4eeaf0cae38ec859ce2da1a06ec753ce38293415e50b3177e6aae9d1df4858e0"
 metafile = true
 
 [[files]]
@@ -445,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/repeater-sound.pw.toml"
-hash = "8a465a3d601967795270bb7359f38325f65489a5c7ed5cb5b41bda26b14fa254"
+hash = "e840c99cf13b1a6f674c2ac6d4859807a65810da1e5056ec83ba2d64fba32229"
 metafile = true
 
 [[files]]
@@ -455,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
-hash = "23430c2394c8537cdc8e3072296beca671a5926ea53312f3d53f3e5c1d0338e5"
+hash = "5821bb4ee50f74dc7113eca91cf840642ba027c124f96846f8b2df97cd246cf1"
 metafile = true
 
 [[files]]
@@ -470,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
+hash = "ff63c0fcdae06b9fa5800d55f1acd779ead23705b4df33f9faa2b4d62e570997"
 metafile = true
 
 [[files]]
@@ -480,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "f3d2ed85760230d57e6212817d3c55adebf4affe5b35784ce026f8bf9e6b9f2c"
+hash = "d6941d78a80e0bf7857f5e9d4c9827f98714d9b5ba7a8d72cc59f3756f21db5e"
 metafile = true
 
 [[files]]
@@ -500,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e3aab9d877766dfc899ef755c5d61e869fc85dc4ec95ab170057fd4e17407faa"
+hash = "ea5d7450e832d18d5aacf0367abf053a7f941b4e63a33829c9c1f978ebb97f7a"
 metafile = true
 
 [[files]]
@@ -520,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "6ba173154c8fe78d78524902a420006e0f1af92533d990fc36d14e55f33327b4"
+hash = "a1c72f9ca36f2bd3f811cef6b4eb3cdd1d07e5c920bced7140ae237eba1c7ccd"
 metafile = true
 
 [[files]]
@@ -530,12 +535,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "57932c51301bdd51a8092f439215d50811cb5583edd384090b719556bcc3586d"
+hash = "9575c5262a9614393ea6d4416885e8a4d2ac53ae2a393f66ea9e96b926d9e3ec"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "2d9ab5d76c32219c684dbb599ef9ebc6d99148a084c38bc61c0cf1ea5f16a77c"
+hash = "f05dedd6fc9f8e3ace51215fb47269a4919870a15c6c166c96c79b87bb9180c4"
 metafile = true
 
 [[files]]
@@ -545,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4c331cf4309108852027aaaeb3cc3546f884451a34b88569a6cd03111834f26d"
+hash = "a12708e086cb5ba3ecf4610cb76eb74c80b49f725602053ef63c581f3f8297ad"
 metafile = true
 
 [[files]]
@@ -554,5 +559,5 @@ hash = "693ad3426a9baac855c1e1bbc514eccec70cb8f197dac0132b109df85ef537b4"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "5821f960ab766cc441934d39998677b224c9e1c6efb965af2d1fa7f8eab73f58"
+hash = "a760c27f83943659269edd4dcd86f4878d968a4e027dd536274c3dd75cc7b899"
 metafile = true

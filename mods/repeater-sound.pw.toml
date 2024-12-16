@@ -1,13 +1,13 @@
 name = "Repeater Sound"
-filename = "RepeaterSound-1.4.0_1.19.3+.jar"
+filename = "RepeaterSound-1.5.0_1.19.3-1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vt4lfXNC/versions/phntFeOC/RepeaterSound-1.4.0_1.19.3%2B.jar"
+url = "https://cdn.modrinth.com/data/vt4lfXNC/versions/W5mUlFkg/RepeaterSound-1.5.0_1.19.3-1.20.4.jar"
 hash-format = "sha1"
-hash = "ed05914ad517ae8ab98eeff9f8b7330c4314b2cf"
+hash = "ac00c739e77830188fb61c87abeafb18f03893ec"
 
 [update]
 [update.modrinth]
 mod-id = "vt4lfXNC"
-version = "phntFeOC"
+version = "W5mUlFkg"
