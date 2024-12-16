@@ -86,7 +86,7 @@ hash = "f0fa91c42d9a753f8f2773f193864fe248fe1a3527189d1490a0e0094bcd7049"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "fa99cbe60c8d7057f7cbc85255567a261fa239c4b90ecd8f6f9207b14f43a778"
+hash = "8120d7b75ece314d2b82c9aa9aa475c85cf49a1c060c405b99a375d07ccc31f9"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6c22eb7238d0620f15f9e2a28d6f4092e07b6b31546b39293f463e13128f4b29"
+hash = "bcf8df149b9638d3c616c83f2cf711bfc1db884d92b700434c02a5762af68e7f"
 metafile = true
 
 [[files]]
