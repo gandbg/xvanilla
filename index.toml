@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "33e966fea025a8ba4143f9f8d744a240f753ef487833cf1be76c72bf0389557e"
+hash = "57783f850a71e372ac2d8b8503a519c5c1cceedf70420d0d34f97326b2c2fb06"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -66,7 +66,7 @@ hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "30bf7c21557b8e83356ef043c044d76478b531013a290c97443740b2c7a1b73d"
+hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -114,7 +114,7 @@ hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "dacff858c9d3d3d96a4b6b902133d0691e320e21a2f57adc6bb6cb9875763582"
+hash = "8d9e8c12e6f71d1d34d9fd19106932afeccc6163f06f4336c5086b1e10107834"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
