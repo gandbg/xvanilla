@@ -24,10 +24,11 @@ jobs:
         run: ./packwiz modrinth export
 
       - name: Upload artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: modrinth-package
           path: "*.mrpack"
+          compression-level: 0
 
       - name: Create release
         uses: softprops/action-gh-release@v1
