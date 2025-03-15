@@ -3,11 +3,11 @@ filename = "fluidvoidfading-1.1.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HO64QSJp/versions/rjYLePBF/fluidvoidfading-1.1.5.jar"
-hash-format = "sha1"
-hash = "4ae732e816dd5e5afe062a05816bdbc1cca1d5ac"
+url = "https://cdn.modrinth.com/data/HO64QSJp/versions/SHnNWhnE/fluidvoidfading-1.1.5.jar"
+hash-format = "sha512"
+hash = "d0304fd6cec825fdece7ba5927bdf3d65b0c4a2f9319c297b8b458e828166247c15e606f1be355b9fef011d108db51b5156e6bc29732c48b0f4f170022005a07"
 
 [update]
 [update.modrinth]
 mod-id = "HO64QSJp"
-version = "rjYLePBF"
+version = "SHnNWhnE"

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/pedwdTC8/versions/UwBNSuAu/Food%20Tooltips-1.0.4.zip"
-hash-format = "sha1"
-hash = "1d0e040b471a177d38bbad5c5eaaac0746c49703"
+hash-format = "sha512"
+hash = "cedf080bc1ee648d8029a1e2a38359bdbd3f316f683478c00c6cdb7700005d9fbd2593c29373851d4c60ffef0588ae837c84fbc47275cf32636478ac028d25ba"
 
 [update]
 [update.modrinth]
