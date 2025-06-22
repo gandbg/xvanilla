@@ -8,6 +8,16 @@
 					"value": "https://github.com/gandbg/xvanilla"
 				}
 			}
+		],
+		"bottom_right": [
+			{
+				"text": "Change your prospective with the R key (instead of F5)",
+				"color": "gray"
+			},
+			{
+				"text": "Zoom with the V key",
+				"color": "gray"
+			}
 		]
 	}
 }

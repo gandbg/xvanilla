@@ -90,7 +90,7 @@ hash = "1a268415c55f9ff29930e834b1c8f6e43e363fe0899216cc7553b5b0384955b9"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
-hash = "2e045ce13efefc88910ca2faa06d813684ce56911a82f20070fd77695d01c23d"
+hash = "288f5095c46584fc6a3350823af576281e49a97d3bfd564fa3467b4baab3383f"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -99,10 +99,6 @@ hash = "8eb65eef0fd09da262c6b2537e973ae25c7043dbf47169972f0fc7491229d777"
 [[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
-
-[[files]]
-file = "config/yosbr/config/mindfuldarkness-client.toml"
-hash = "e2e52462941a93402444eaa5423b1a2b08b8368af5d704088eedf2aa1614761c"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
