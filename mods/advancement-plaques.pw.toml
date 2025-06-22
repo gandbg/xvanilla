@@ -1,13 +1,13 @@
 name = "Advancement Plaques"
-filename = "AdvancementPlaques-1.20.6-fabric-1.6.2.jar"
+filename = "AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/9NM0dXub/versions/56YpTRVM/AdvancementPlaques-1.20.6-fabric-1.6.2.jar"
+url = "https://cdn.modrinth.com/data/9NM0dXub/versions/g0SNjiMq/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
 hash-format = "sha512"
-hash = "7360c29251aad4ca5de13696dc91a3ed625333ded1afa48f63547a8adae292c2f7998137ea8c0bbedfd870135d9c2b80a90054ae5eb414120039593a3c115d7c"
+hash = "32afe425aecefaaca94abedec39d5a5bfaaa7361a0f36e92577ff70d4003cf9587750213b83693da0da8716f5e2da6e7f68932cc5c19f9ad330977144ab355b1"
 
 [update]
 [update.modrinth]
 mod-id = "9NM0dXub"
-version = "56YpTRVM"
+version = "g0SNjiMq"
