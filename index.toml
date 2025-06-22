@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "65901990bdb59493f43b707f74a5ff2749d566293ecc9d7a73854bdb22f7b742"
+hash = "1398fa9ccf92c3a9c3f778a68fff67ba74f46a14c7116a32f53b472b617df1e5"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -78,7 +78,7 @@ hash = "e5210a18a1f67104b6eda85a9ea68f475b75a71bab9cff7cf7dbcc10f627369a"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
-hash = "7bcaa488c548f5fedb0f4bba519b7878997ad1c62402f589d1cca2f6e4f84d13"
+hash = "40a9241c924a1251cafa61509cfe806703bf30319428ef506825629a175a38cd"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
@@ -110,7 +110,7 @@ hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "8d9e8c12e6f71d1d34d9fd19106932afeccc6163f06f4336c5086b1e10107834"
+hash = "cab638ef75572d2c4bcc9dfd583283e7bbe927fd6c3834930bed52e2dbcac063"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -122,7 +122,7 @@ hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
-hash = "ade080447491d2a630c65b7343df636833f8283fe5af9db74b51c4e122bf0550"
+hash = "59fa5a7fdbcc83cc2dd9a23542d0f950d2e6ba64c368b456c4afc5f8900d8e1d"
 
 [[files]]
 file = "config/yosbr/config/skinlayers.json"
@@ -142,7 +142,7 @@ hash = "c47ea3554cf51890f76152c3cc5ab2ae86a4c81831456cf1e451ee4c581331df"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b7103739a897946cd724205c71dced1bf90fbfdafaabd1d055e300c5d3ebe7ed"
+hash = "a8113b6af40cc0d99312b94d239bcf97363724a9e8e1e8b2324f57b06f60b490"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
