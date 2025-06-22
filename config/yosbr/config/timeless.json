@@ -1,4 +1,5 @@
 {
   "disableHitDirection": false,
-  "skeletonShootPurpleArrow": false
+  "skeletonShootPurpleArrow": false,
+	"useOldScreenBackground": false
 }

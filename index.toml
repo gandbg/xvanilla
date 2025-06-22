@@ -134,7 +134,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/config/timeless.json"
-hash = "5a6828691a641ceaaf4387331ee325f33c14b44924319023e38366d376514fcf"
+hash = "22b9d5fe48d484d4a19c6fcf6f66435024cd0df43b2b808b859526496f2db946"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
@@ -492,6 +492,11 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "8cd4c8bc9d0b3a0059f870c04b0fa273c32812c34e56340d3fa66c5b79cc965e"
+metafile = true
+
+[[files]]
+file = "mods/timeless.pw.toml"
+hash = "cdf24f31b33e43715e25421656c1ec502150fa1086e8153bda09d1bac06b6a1e"
 metafile = true
 
 [[files]]

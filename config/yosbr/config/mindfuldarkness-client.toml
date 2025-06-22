@@ -1,6 +1,0 @@
-hide_in_game_switcher = true
-dark_mode_toggle_screens = "NONE"
-dark_theme = true
-texture_darkness = 0.6
-font_brightness = 1.0
-darkening_algorithm = "GRAYSCALE_AND_HSL"
