@@ -86,7 +86,7 @@ hash = "f0fa91c42d9a753f8f2773f193864fe248fe1a3527189d1490a0e0094bcd7049"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "1a268415c55f9ff29930e834b1c8f6e43e363fe0899216cc7553b5b0384955b9"
+hash = "3cb64e81d0abd9d5ce4ef2df7ac254544bf46083e2f19dc1729aa88fc33add00"
 
 [[files]]
 file = "config/yosbr/config/isxander-main-menu-credits.json"
@@ -138,7 +138,7 @@ hash = "c47ea3554cf51890f76152c3cc5ab2ae86a4c81831456cf1e451ee4c581331df"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f2090ef9db2d0b685a8abe17e2f7d5ffdcfee0aae82da89ffa9fbd2a4b8c78b0"
+hash = "ba41dccfc665180503a454ce2f8cef2545d0eaa2e65512d82b063b1ff8717bf6"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
