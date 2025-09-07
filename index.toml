@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "FO.txt"
-hash = "ccc69030042f59ef4412428fe112a19a88da22c41bb04968e501eb5f2c979112"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "1ec888bee481cc26c12367ed3a3422fd123c794cc7c46bfdb7adf34f47843a00"
 
@@ -146,12 +142,12 @@ hash = "f2090ef9db2d0b685a8abe17e2f7d5ffdcfee0aae82da89ffa9fbd2a4b8c78b0"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "211f60a915e5c468055a859be71c465c32c7d7001427f43507d02af8ce27830e"
+hash = "9bd6ba58d937a371fc6bb73947e19c75020af78fc16a4a56683e5f289075bb29"
 metafile = true
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "26085aa8480f728633c0b84a5eb1879f2911993905c425f3596fb2bef0ed94cc"
+hash = "5fab6c1cc1beb19db884f921897d336934c56793f5f8b84fd9350c1b51d32c8c"
 metafile = true
 
 [[files]]
@@ -166,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
 metafile = true
 
 [[files]]
@@ -181,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
-hash = "e53155acc7b3692b6a2684f6334d50c9e128b1f007ad7b2c8b514e7d1f2500c5"
+hash = "71eb1aaabf8edb4cbf06083dbcb88d2753f784c02210783f4292175c44df1dd9"
 metafile = true
 
 [[files]]
@@ -196,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "b1e0b4b93715d3b1f3d7f41653b914a3479e61657f01a7e0735510a2b196883e"
+hash = "c62ded87bfe165a691ab2845149b09788d9a0cb308e44ee7ee6507c846e9bdb3"
 metafile = true
 
 [[files]]
 file = "mods/cake-chomps.pw.toml"
-hash = "0044f480316fd6eebf0b4f0ab22b9a15b475fdc13c7d76430842614413b4b889"
+hash = "18e2faccc79b619b0114337b704e9d3ce22178c18914c6cf3ebe2eb706e02422"
 metafile = true
 
 [[files]]
@@ -211,12 +207,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
+hash = "a8b8e89a322aae5f20d15a3aa21cd5f47e14853f36b9303e3ef0fa717660115a"
 metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
+hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
 metafile = true
 
 [[files]]
@@ -236,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "60cbb0f3f3ac58c190df26cfdc3cb412e8b6509d6221960483b58a8ed890f0a9"
+hash = "4f37da86319d0c1a5f3f222d30b23798ac1e07ae773caf91f0a8b1f89577fc3f"
 metafile = true
 
 [[files]]
@@ -246,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
-hash = "5f7537e9f19357e3a5bcc077725f15a1694fb9f67c4cdfd96f3b993a85e397f1"
+hash = "389323d30065bef4d9eb2d965ce19e510bf7c9ffc64f21b6e122f2d95e1cf207"
 metafile = true
 
 [[files]]
@@ -256,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "43346bea81ab611d21449957d09be4166f748fa62cea95e7fa99b5caaa5bdcca"
+hash = "04851cf23a0fef9e213180bf5926b705c5ad2d0b04d41934b915cc1ccfabd841"
 metafile = true
 
 [[files]]
@@ -306,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/fluidvoidfading.pw.toml"
-hash = "61383e2edfc08ef8c20ea774246389a83ed3d88fd87c420976bc453bf83d9878"
+hash = "27de69cebf60cfe622dbb27d081a4d906067c2c85e5e3c01bcde94cf1232fbc0"
 metafile = true
 
 [[files]]
@@ -316,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "8cb1da4da5375889e24a5e99882fd6f48121e0eb9f028227c84e4375aaf76381"
+hash = "88a22df96806e32bfd1f80fbd4a94a885148d2372efa5a36c1e8635f06213780"
 metafile = true
 
 [[files]]
@@ -356,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
+hash = "58b90c52266f89c339a35bd46378d8059d56949d5926c7b25da98719d0b38065"
 metafile = true
 
 [[files]]
@@ -391,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
 metafile = true
 
 [[files]]
@@ -406,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
+hash = "455d878986138a7cebcf3def9d5a4ea34f8b94beee32fac462569cfa16e857ef"
 metafile = true
 
 [[files]]
@@ -416,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuit.pw.toml"
-hash = "0846c709603ff778d27f6afe12caa9fedf0648b7d7182a969fd08fe6432b5cc9"
+hash = "8c3777fcf9615b961fa6c1f44ae002cba0d0d16cf62041ef2fa23e4e481bc56e"
 metafile = true
 
 [[files]]
@@ -436,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
-hash = "478cf24d75c02422619241c8b79cf938bcf94b220474eef57bcfae17f4816dd9"
+hash = "73721942388d987a53498ea17d5a80637ed4f3863f4ff2f2e546eb3d897f0c64"
 metafile = true
 
 [[files]]
@@ -451,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/repeater-sound.pw.toml"
-hash = "05f2f99331d88823ca87802fe8cb5def21fc20682e8eb9e29dfdf3a22c3b1878"
+hash = "7a5431a4a93c8aadb13055f131494344163ed51aa61a01f75fe5d40b28903eb0"
 metafile = true
 
 [[files]]
@@ -461,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
-hash = "ba23c74355d05314b666f63512ebc1b91abc4926a48b00c137bd5e2be6868e82"
+hash = "3ffd98bad6bf131ed40e07b51da46f8b5692982de63ad05cc8c4738e1d7a88ec"
 metafile = true
 
 [[files]]
@@ -486,12 +482,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
+hash = "9779ab4f3a2f5a31a5546e17492167ae1f46426875583f5eb6c4b4e893557d2a"
 metafile = true
 
 [[files]]
 file = "mods/stendhal.pw.toml"
-hash = "8cd4c8bc9d0b3a0059f870c04b0fa273c32812c34e56340d3fa66c5b79cc965e"
+hash = "ef09549b50c6d26e7796f9019c7af46bf0b90fd89362286325030194373ada82"
 metafile = true
 
 [[files]]
@@ -501,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
+hash = "146dbdc9a45f945693a356510b0ce7ef670ab1bbd73e7fe461cef41f33519c3c"
 metafile = true
 
 [[files]]
@@ -521,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat+.pw.toml"
-hash = "a0fa45bc5d636a8b729fae4d9e01f890e69516453373e257d8e913a6b76e8b4a"
+hash = "c02363de4ce87adbeefef2754cc1a38c37920631769d713b700c3c759d0e4fa6"
 metafile = true
 
 [[files]]
@@ -536,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "99840804f775591ebe4c69fac1b1ca0cbad8f703ce3a3be01becff1c3808a218"
+hash = "3e8b5309e27392a7d965612ef85f47b0507bdacedf3882e3490f9a66188579a5"
 metafile = true
 
 [[files]]
@@ -555,5 +551,5 @@ hash = "693ad3426a9baac855c1e1bbc514eccec70cb8f197dac0132b109df85ef537b4"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "db3eac9aaadd5d732180a0dd7ae8a322c07386259a971b177f4f2fef50a29c6f"
+hash = "98146b3c9311635f180bfd250781986b88516f930ee652fcbd234788b64ba3b6"
 metafile = true

@@ -1,13 +1,13 @@
 name = "Better Command Block UI"
-filename = "bettercommandblockui-0.5.2a-1.21.jar"
+filename = "bettercommandblockui-0.5.3-1.21.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8iQcgjQ2/versions/NvyufuVp/bettercommandblockui-0.5.2a-1.21.jar"
+url = "https://cdn.modrinth.com/data/8iQcgjQ2/versions/efxeUgy2/bettercommandblockui-0.5.3-1.21.4.jar"
 hash-format = "sha512"
-hash = "20c60b0f15babdcc313f3ea221c06ac91aac44d234045f8ae8256317dd5be7d1912b73e3ac28af674d6f1c24cc4b980cc17fae5cdfcd3202b441c93306635ff9"
+hash = "f92c06d69de679ca3cdc4a4455feb5eb6b0b4e66d3bf1b21ae759c4e98ddee12a663b96f732e3885499dafd6563e06e8e91a46a1651956d02261d5cdf8c1e342"
 
 [update]
 [update.modrinth]
 mod-id = "8iQcgjQ2"
-version = "NvyufuVp"
+version = "efxeUgy2"
