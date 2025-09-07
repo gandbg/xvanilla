@@ -138,7 +138,7 @@ hash = "c47ea3554cf51890f76152c3cc5ab2ae86a4c81831456cf1e451ee4c581331df"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ba41dccfc665180503a454ce2f8cef2545d0eaa2e65512d82b063b1ff8717bf6"
+hash = "d43a371bd0d6e475d4d37a76ef6f7724af0462ac7107f9ab63b146ca9a20c87c"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -163,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
-metafile = true
-
-[[files]]
-file = "mods/better-enchanted-books.pw.toml"
-hash = "07aa7390371600b4a68490ae9006a2a30363a8a886815d97be36f9d01bbe1258"
 metafile = true
 
 [[files]]
@@ -196,11 +191,6 @@ hash = "c62ded87bfe165a691ab2845149b09788d9a0cb308e44ee7ee6507c846e9bdb3"
 metafile = true
 
 [[files]]
-file = "mods/cake-chomps.pw.toml"
-hash = "18e2faccc79b619b0114337b704e9d3ce22178c18914c6cf3ebe2eb706e02422"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "c764ec528a8f0a0608129136fa35538e174dea6bcd712285db0a15b2ba685d1f"
 metafile = true
@@ -222,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "da601d465e5e45a65c9e0a08179cfe8812a22f3673de5a734b5829ca0ddd07cd"
+hash = "db5dd9a3f444145b0cb4fded5d44dc57e805df697f4e19727f4debe87b3583fc"
 metafile = true
 
 [[files]]
@@ -262,17 +252,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "14ddf6bc740ded7825a455f90f0045ed3b4c2e65168565715daaff8532da5dbd"
+hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1ad21aeb39b061330a3dec4e018c54a12703968472cbd18faed5ae01b41109bb"
+hash = "02cd8c09f7bf92fbc852338e45af3af980a40e52fae6aca14e3c1530645bdb33"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c5b8d9063faf87430273fd30ae77ecf70f7f4a16fc2fc8fd3db02ce8005230be"
+hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
 metafile = true
 
 [[files]]
@@ -357,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "bc524391b395397eaad3a7a165ae8c916a5aa4f1165391268fe5407b0116da0e"
+hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
 metafile = true
 
 [[files]]
@@ -377,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "4cf9c970b657b638d98d8ad238cbaa2cf596e51e070586bc87fc66f81f0407da"
+hash = "108aae1d2a8f03fffeb5f36e874d378d521f9779cf476e4e60b7f2a8043252f6"
 metafile = true
 
 [[files]]
@@ -402,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuit-interop.pw.toml"
-hash = "556fddf5f52f49d9acf41e4db737e5431c1b45e60f5e0c04ca1de70b01dd1d15"
+hash = "00942cd2fd2775f47e1451a1705fcc0bc282bc0e7f19eafbaea70866478244b4"
 metafile = true
 
 [[files]]
@@ -487,7 +477,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless.pw.toml"
-hash = "cdf24f31b33e43715e25421656c1ec502150fa1086e8153bda09d1bac06b6a1e"
+hash = "fc13937bee0f98cefbfbc2795438fc2c67d0fad23fbeceb12caedf147a34984e"
 metafile = true
 
 [[files]]
@@ -541,7 +531,7 @@ hash = "2840900657d1be39ec31d5f7bedba2fe4549fda3235bfaceab61243d3c1bdfd0"
 metafile = true
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.1c.txt"
+file = "shaderpacks/MakeUp-UltraFast-9.3d.txt"
 hash = "693ad3426a9baac855c1e1bbc514eccec70cb8f197dac0132b109df85ef537b4"
 
 [[files]]
