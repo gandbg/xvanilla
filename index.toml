@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "bd242ebdb72fe8bf06407dbeac5e4e592ff3898b76438fa730348602660cc281"
+hash = "318519c3574871766c6dc32c0748a899d3b928666d1ed94bf0861ec90507cac0"
 metafile = true
 
 [[files]]
@@ -208,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "a8b8e89a322aae5f20d15a3aa21cd5f47e14853f36b9303e3ef0fa717660115a"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
 metafile = true
 
 [[files]]
