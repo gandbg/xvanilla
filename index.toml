@@ -66,7 +66,7 @@ hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
-hash = "fa1de7120195fe5f492cada2cca323e987162dfbac561db666231dea0fa9ca94"
+hash = "f6dfdf1384830fbd124bf842bf6e86a4fccfeddbe1ace51f3b7e4bac17e946b9"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
