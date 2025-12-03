@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "FO.txt"
-hash = "efb9dd86a07e15a0214f2edba459abd6654b2f13a9faef7b340f5b0285a7aeee"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "2d4f0b19fe575fb5c7040e152947b5529b2dacf00edb3723ed31bf6ce2600d16"
 
