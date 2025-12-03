@@ -2,7 +2,7 @@
 	"main_menu": {
 		"bottom_left": [
 			{
-				"text": "GABG's XVanilla 3.1.0",
+				"text": "GABG's XVanilla 3.2.0",
 				"clickEvent": {
 					"action": "open_url",
 					"value": "https://github.com/gandbg/xvanilla"

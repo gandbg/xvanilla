@@ -1,12 +1,12 @@
 name = "GABG's XVanilla"
 author = "GABG"
-version = "3.1.0"
+version = "3.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "91f987ce99c61dc44214f8c45199ffd5aac7c1f0136c4947c347709458b60547"
+hash = "f3046b55fad746fc92126692b2679c8f8c02bd68cac1e4fbd9b3b3d77f75d4e4"
 
 [versions]
 fabric = "0.17.2"
