@@ -1,4 +1,4 @@
-version:4189
+version:4325
 advancedItemTooltips:true
 autoJump:false
 darkMojangStudiosBackground:true
@@ -9,8 +9,8 @@ joinedFirstServer:true
 maxFps:70
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Food Tooltips-1.0.4.zip","file/Chat+v.1.2.zip","file/Faithful 32x - 1.21.4.zip","file/EF-Heavy.zip"]
-incompatibleResourcePacks:["modernfix","yet_another_config_lib_v3"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/Food Tooltips-1.0.4.zip","file/Chat+v.1.2.zip","file/Faithful 32x - 1.21.4.zip","file/EF-Heavy.zip"]
+incompatibleResourcePacks:["yet_another_config_lib_v3"]
 simulationDistance:6
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
