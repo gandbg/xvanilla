@@ -1,13 +1,13 @@
 name = "Optiboxes"
-filename = "optiboxes-1.4+mc1.21.1-9eba186.jar"
+filename = "optiboxes-1.4+mc1.21.5-fa368c4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/ipMSJF5L/optiboxes-1.4%2Bmc1.21.1-9eba186.jar"
+url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/vsqy3nxk/optiboxes-1.4%2Bmc1.21.5-fa368c4.jar"
 hash-format = "sha512"
-hash = "0fe37a7bde5aa02708a0e57955b09d27876eaec8ca0ca6cab84fb6496eaf3e51f0a11ebae128e7df819ef823cb114e3840340917129164e25acddda9e1cf623b"
+hash = "a7c963ed03d6908afdd81d95a18f247a30e6de4b3c902e2671dd36979050c4c4604357123b536f4aadb232c370660d542be7f427b6196a1e18b82488799be21c"
 
 [update]
 [update.modrinth]
 mod-id = "DWuwk8aA"
-version = "ipMSJF5L"
+version = "vsqy3nxk"

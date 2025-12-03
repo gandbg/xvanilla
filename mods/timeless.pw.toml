@@ -1,13 +1,13 @@
 name = "Timeless"
-filename = "timeless-1.21.4-1.3.1.jar"
+filename = "timeless-1.21.5-1.3.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nJxEs2tZ/versions/WFterzwZ/timeless-1.21.4-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/nJxEs2tZ/versions/CmV5G22h/timeless-1.21.5-1.3.1.jar"
 hash-format = "sha512"
-hash = "fb4b8f2d6bc0a59516a317788e6c53cc4560cb129a16035167c1fc4d4889b5324223f026eb99001817ad2d27af495b42c088372a94d30f92de3329597eb985d4"
+hash = "ecc352df30652111c7c7fb492febd74f0f736c455f2a67d1071bfe46392e9f267cac628f5bb1e1125bd99ca5d6a129d65f713b1805ae1a7cd4bb4633cea8cc10"
 
 [update]
 [update.modrinth]
 mod-id = "nJxEs2tZ"
-version = "WFterzwZ"
+version = "CmV5G22h"

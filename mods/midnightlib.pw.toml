@@ -1,13 +1,13 @@
 name = "MidnightLib"
-filename = "midnightlib-1.7.3-fabric+1.21.4.jar"
+filename = "midnightlib-fabric-1.9.1+1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/codAaoxh/versions/BTo6aJAT/midnightlib-1.7.3-fabric%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/py38B9OL/midnightlib-fabric-1.9.1%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "6c85fc126567e6efbf84ba16dc57f29b06502f34b90429e3f8e7e0b5f01b160f3b67a493f438901a384c477dc84513998f964f8ab7e3eb1faf230fa69fe6e387"
+hash = "7a83516acfafd29b40c33c688e1cf4e7bb1ca14985aac0e5044e29f1d8720d2c844a564584706cc1fec52045efe01fb45851f5870a538445173baa6fb149836b"
 
 [update]
 [update.modrinth]
 mod-id = "codAaoxh"
-version = "BTo6aJAT"
+version = "py38B9OL"
