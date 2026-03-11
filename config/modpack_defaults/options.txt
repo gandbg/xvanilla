@@ -16,7 +16,7 @@ weatherRadius:5
 advancedItemTooltips:true
 autoJump:false
 darkMojangStudiosBackground:true
-enableVsync:false
+enableVsync:true
 guiScale:3
 joinedFirstServer:true
 maxFps:70
