@@ -154,7 +154,7 @@ hash = "f6dfdf1384830fbd124bf842bf6e86a4fccfeddbe1ace51f3b7e4bac17e946b9"
 
 [[files]]
 file = "config/modpack_defaults/config/iris.properties"
-hash = "c1a3ccc45a724d291dbd6e8ec5a61baf144590f05630e3223f3228e97ae10a7b"
+hash = "0266f79cccb157979baad30a604b15f321728702d72594616c570fd62cb12295"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
@@ -218,16 +218,16 @@ hash = "902b29e5f2044fa0011ac76281c700b52d83f1b5db6b605b8f702c8a99a55a2b"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "5ec2dc05a4403f02a38dfeea97ca8ec5b53e5ccbc74c3ea6048a844effc17493"
+hash = "8b55886382807a66518be5fb62906f4260da5fffaa35aef369841b9511187c51"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "eb5153b1e4739033f8a5521e83862dffb52e8e33cd9e3532e67dad04b371d440"
+hash = "d432f80f3f45a8a54ad6379fef75982173578f746eb5f11cb9368a9ff7e4e2ca"
 metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "ed903d0b2e147daecbe0ab26174685d0179cd587fcf533e55aa30886eda480b0"
+hash = "394030f614ec2081350023cc8f8b25f8210894bb8950da36f8364a8fe8893a6e"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
+hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
-hash = "efe9b34407e122ab02444ed4da6820984d2f015fbe2b64242f74bbce35f145d4"
+hash = "cb452d78801aba186caee80fe25de1ad39b4b9b31ca42bccd6f12bf54fbfef2c"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "c62ded87bfe165a691ab2845149b09788d9a0cb308e44ee7ee6507c846e9bdb3"
+hash = "e03153de5a73e99125c2910a480189eb4b1fa2cca3237c4be72fab248a82516f"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d34fe1702f55920a19bcc18f03fa4402f39635c381c30277ad358d6e82577927"
+hash = "2fa6655542b90a86aa6a27219aa662bddd1b38a13bbb1f5a35eb49b1920478d6"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "4ed5776aa285faad3d73e7df5ef2a35129c632ed72b167279ede5ddd488fcb4a"
+hash = "dc2222f80d2bffd28cecbebecb3b024e6d52ac49375f0407422e5249491a2ac6"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
-hash = "389323d30065bef4d9eb2d965ce19e510bf7c9ffc64f21b6e122f2d95e1cf207"
+hash = "716b671d0b15ea17c788c571620eac83207bb2b6e8dbe0d33319838478f21efc"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/fluidvoidfading.pw.toml"
-hash = "00d806221aaf38512d07313cb7f937b37d969961270598bf95ceb1159a36d992"
+hash = "87891e3be83d1781e04a295e9bdc5da016f2814dfb30abd2e12679f879a92459"
 metafile = true
 
 [[files]]
@@ -407,17 +407,12 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "6b0d890b4d8f69cabf5827e77cb3a49d99da05f854a4c251ddf2b4b7dd32e002"
+hash = "7f26c8df78d02b1d63a723a3a45b838415126da5296ac67b0414e564da30a421"
 metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
-metafile = true
-
-[[files]]
-file = "mods/modelfix.pw.toml"
-hash = "cb6164e3c3e40045becd5a12ffda6f4ce1492019add565d49656f15eb7863707"
 metafile = true
 
 [[files]]
@@ -436,23 +431,18 @@ hash = "e4b9192ce7f54715dde7eb682ebab23aaaac10658b1bd08ba553a5f99b0124d1"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "cd25851cbdaad2dd1957a8086ce54aa4bd3c45be75e1ba49168a54fafbd87898"
 metafile = true
 
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
-hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
+hash = "d762a3e4156c8ce27be1fca0c8a1c095cfd29d321885eda24353a351ec1d9c80"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "438f668eed636071ebe6ab8445d9ef37af608467c7fcdd243676b24be50360a0"
+hash = "00bc3af6def79868e126ea53faf06bbad004f094fc26d60e7b4a1eda067e7311"
 metafile = true
 
 [[files]]
@@ -512,32 +502,27 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "7c450da0da231a6e35c64fd98c395a9b7a8822ade4e42363db1b28710e0cc0d2"
+hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
 metafile = true
 
 [[files]]
 file = "mods/stendhal.pw.toml"
-hash = "700c474b7dbb3d6cf743c4262fa01233c0c2ada4976f8cadc942606eb7afe76b"
+hash = "e57db38b7680dae1362aec9ca714b408ca98cc130a42abb48a63fbc3755b9a2c"
 metafile = true
 
 [[files]]
 file = "mods/timeless.pw.toml"
-hash = "e15ac1f577845ed95682dfb8b25886726cbefbfd576ba9d245e6305601de07f3"
+hash = "0f8233237743c0409a581240b9143ebff3411eaf5db09997ce8b0a595029c321"
 metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "d1de6d3e889db21acd36afb754f20b6ccc8c850cb7ef839047eb440e6114d652"
+hash = "d44e2b5db1fb0c90d9ec5f25a153a437ea71c59a499491b6d639fff69cec8ba4"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
 
 [[files]]
@@ -547,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat+.pw.toml"
-hash = "c02363de4ce87adbeefef2754cc1a38c37920631769d713b700c3c759d0e4fa6"
+hash = "ffeefb5023502009aca810a060b709b906a2b4909d2aca2e79594f2689110cb7"
 metafile = true
 
 [[files]]
@@ -562,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-32x.pw.toml"
-hash = "54443027f9790a0afd476a208bad68a52f05f988bf6e72095a0c3056d8fd7273"
+hash = "aadb81ceab01fef5e667300738edfb8d8f73a3380e1b4ecc39ed72e925199a7d"
 metafile = true
 
 [[files]]
@@ -576,10 +561,10 @@ hash = "d4809cc0fb5957beb5d715b5d8ffd48dd72aac74fc67a3bd4899cd425f443668"
 metafile = true
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-9.3e.txt"
+file = "shaderpacks/MakeUp-UltraFast-9.4c.txt"
 hash = "693ad3426a9baac855c1e1bbc514eccec70cb8f197dac0132b109df85ef537b4"
 
 [[files]]
 file = "shaderpacks/makeup-ultra-fast-shaders.pw.toml"
-hash = "c37f620be5f4739b191c1a5eba8b90c3acdef3162b7c9b499391c16ed23f378a"
+hash = "461e40107c6b2b38ad33c7820b07b06f8dc8016611ed910ae49ecf7b073bf019"
 metafile = true

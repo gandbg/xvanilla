@@ -1,13 +1,13 @@
 name = "Chat +"
-filename = "Chat+v.1.2.zip"
+filename = "Chat+ v.1.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Yq3N3xqC/versions/NuedWaah/Chat%2Bv.1.2.zip"
+url = "https://cdn.modrinth.com/data/Yq3N3xqC/versions/pd4xmvth/Chat%2B%20v.1.3.zip"
 hash-format = "sha512"
-hash = "a2bb5f5fab130f56bb9822f6d58b37f7ee36976bb20a7da8b1fe836251a9efab0a04809f40d4b3984890b6962cab9644fe5f2f4e088f56312f1f0aa144cebeb1"
+hash = "d52536850b407027df4e5a32656747acf46ed21b70783a47b37a27f2289761af3563ace83c9e55ad26aa6279ab61ab9c541fd46084f0a116e3776aeacdecc40a"
 
 [update]
 [update.modrinth]
 mod-id = "Yq3N3xqC"
-version = "NuedWaah"
+version = "pd4xmvth"

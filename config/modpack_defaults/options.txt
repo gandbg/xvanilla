@@ -22,7 +22,7 @@ joinedFirstServer:true
 maxFps:70
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/Food Tooltips-1.0.4.zip","file/Chat+v.1.2.zip","file/Faithful 32x - 1.21.4.zip","file/EF-Heavy.zip"]
+resourcePacks:["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/Food Tooltips-1.0.4.zip","file/Chat+ v.1.3.zip","file/Faithful 32x - 1.21.11.zip","file/EF-Heavy.zip"]
 incompatibleResourcePacks:[]
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
