@@ -1,17 +1,29 @@
-version:4325
+version:4671
+biomeBlendRadius:1
+cutoutLeaves:true
+entityDistanceScaling:0.75
+entityShadows:false
+graphicsPreset:"custom"
+prioritizeChunkUpdates:0
+textureFiltering:0
+mipmapLevels:2
+particles:1
+renderClouds:"fast"
+cloudRange:32
+renderDistance:20
+simulationDistance:6
+weatherRadius:5
 advancedItemTooltips:true
 autoJump:false
 darkMojangStudiosBackground:true
-renderDistance:20
 enableVsync:false
 guiScale:3
 joinedFirstServer:true
 maxFps:70
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/Food Tooltips-1.0.4.zip","file/Chat+v.1.2.zip","file/Faithful 32x - 1.21.4.zip","file/EF-Heavy.zip"]
-incompatibleResourcePacks:["yet_another_config_lib_v3"]
-simulationDistance:6
+resourcePacks:["vanilla","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/Food Tooltips-1.0.4.zip","file/Chat+v.1.2.zip","file/Faithful 32x - 1.21.4.zip","file/EF-Heavy.zip"]
+incompatibleResourcePacks:[]
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 tutorialStep:none
