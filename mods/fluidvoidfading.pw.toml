@@ -1,13 +1,13 @@
 name = "Fluid Void Fading"
-filename = "fluidvoidfading-1.5.1+1.21.11.jar"
+filename = "fluidvoidfading-2.0.0+26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HO64QSJp/versions/yCihF7YZ/fluidvoidfading-1.5.1%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/HO64QSJp/versions/tOfDinV8/fluidvoidfading-2.0.0%2B26.1.jar"
 hash-format = "sha512"
-hash = "8666233b84b227b0e27405e0854193eb8e9f72ffc0b82ec9a68abc0bede04610f11eec6cb30f8d7d8399ec0861fde9f2209ae4bbdb13ff68ef186f56b8cf04de"
+hash = "bf4a59a4826157ede1696815a78acce6bb51c5de4aa31f7f3426815daef26160baf20c0d2283087270c7bcf0c95ef4adee3f9a92673138da3156743850054afd"
 
 [update]
 [update.modrinth]
 mod-id = "HO64QSJp"
-version = "yCihF7YZ"
+version = "tOfDinV8"

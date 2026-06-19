@@ -1,13 +1,13 @@
 name = "No Resource Pack Warnings"
-filename = "no-resource-pack-warnings-1.4.0.jar"
+filename = "no-resource-pack-warnings-1.5.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6xKUDQcB/versions/tvP3UXwY/no-resource-pack-warnings-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/6xKUDQcB/versions/1RaYV3Oy/no-resource-pack-warnings-1.5.0.jar"
 hash-format = "sha512"
-hash = "fd3bb10d7f8ab52c8692a2c43bbe2e425d16ecf819c953c36c283c90e441a468ff919dedb5685a4f612be80664c3e15c7d10d8d66bc4f98751c5ea84023fbd9a"
+hash = "24677b11d1b0d85daec9efe7886f3d587f03b1449e0d5f9fe26264c4b9c0332ac9ccdd9b2c1a77a86015a2e6c236a53290ab8e1a42b1650a9c57f722f9103adf"
 
 [update]
 [update.modrinth]
 mod-id = "6xKUDQcB"
-version = "tvP3UXwY"
+version = "1RaYV3Oy"
