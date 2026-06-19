@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "9edd21a031295544b0079716f42c018de19913ae7a824f01618d0226265794fc"
+hash = "448f56f00955f708d4d15ce3a9d94753516646bb2314fcad8c95e80b826eea2c"
 metafile = true
 
 [[files]]
