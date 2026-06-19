@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "25f0fb67fceb5e4c6afa406d2016defee1d42699990e836769385499cd9c7441"
+hash = "dec7b23e7a1286bdaacbe75e77b087b0f7e3ca4bc3289570eccf57712da70610"
 metafile = true
 
 [[files]]
@@ -436,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "db8a9e1d05e723b50235225dea870c8a3def959c79e32077b12782cf5b8496f8"
+hash = "3cc0488195b6c6b8069e8b998db711f75829dc5e2385c45be17083ce86214303"
 metafile = true
 
 [[files]]
