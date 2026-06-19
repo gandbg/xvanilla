@@ -166,7 +166,7 @@ hash = "ab58c1415d48900d06ba96d389728442430a3d1d2d2ed760ba79dac02d6181d0"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "854cbeeb9a660184f8ee71af277b2506522fee84ccc51f699de860089a34771a"
+hash = "8e211f7fe506fd02ba26f630b1847372d2cfdf6c837facd7123e2c31bc5fed16"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
