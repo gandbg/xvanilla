@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "9b8ef7c86b5111f01581d8148b15a929e48f124e76abe284d705768d3d0b058b"
+hash = "2c98faa0241159ccf443d4b8835fe40aa8eed235d93b068b4a2179afa2d6e57c"
 
 [[files]]
 file = "config/crash_assistant/crash_assistant_localization_overrides/en_us.json"
@@ -472,11 +472,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "5df4a212f7297545920f3e69aa8a9b2e9df8dfad2e35c5a5fb1485c5a2b0ba84"
-metafile = true
-
-[[files]]
-file = "mods/rrls.pw.toml"
-hash = "cd028f3e8551c63268306ae679bbfa6d6a5d7a22e29853773bbb31e78100fbbb"
 metafile = true
 
 [[files]]
